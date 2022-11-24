@@ -1,0 +1,3 @@
+# Predicting-the-price-of-football-openers
+Predicting the price of football openers by machine learning and data science
+This project has been commissioned by one of the companies in Turkey that selects football players for football clubs. This company wanted to calculate the price of football players in its neighboring country of Iran and set a price on the players. It has been very difficult and difficult for them to work manually. I used different artificial intelligence techniques, including linear regression, which was the best model for this job. Here are 4 files, each file is related to the post in football.
